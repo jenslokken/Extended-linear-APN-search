@@ -1,0 +1,14 @@
+results/all/q_10_1.out filter=lfs diff=lfs merge=lfs -text
+results/all/q_10_2.out filter=lfs diff=lfs merge=lfs -text
+results/all/q_10_3.out filter=lfs diff=lfs merge=lfs -text
+results/all/q_10_4.out filter=lfs diff=lfs merge=lfs -text
+results/all/q_10_5.out filter=lfs diff=lfs merge=lfs -text
+results/all/q_10_6.out filter=lfs diff=lfs merge=lfs -text
+results/all/q_10_7.out filter=lfs diff=lfs merge=lfs -text
+results/all/q_10_8.out filter=lfs diff=lfs merge=lfs -text
+results/all/q_10_9.out filter=lfs diff=lfs merge=lfs -text
+results/all/q_10_10.out filter=lfs diff=lfs merge=lfs -text
+results/all/q_10_11.out filter=lfs diff=lfs merge=lfs -text
+results/all/q_10_12.out filter=lfs diff=lfs merge=lfs -text
+results/groupStructure.csv filter=lfs diff=lfs merge=lfs -text
+results/all_non-zero/all_non-zero.csv filter=lfs diff=lfs merge=lfs -text
